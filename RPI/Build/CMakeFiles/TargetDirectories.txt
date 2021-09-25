@@ -1,0 +1,7 @@
+/home/pi/gpio_log/RPI/Build/CMakeFiles/install/strip.dir
+/home/pi/gpio_log/RPI/Build/CMakeFiles/edit_cache.dir
+/home/pi/gpio_log/RPI/Build/CMakeFiles/RPI.dir
+/home/pi/gpio_log/RPI/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/gpio_log/RPI/Build/CMakeFiles/list_install_components.dir
+/home/pi/gpio_log/RPI/Build/CMakeFiles/install.dir
+/home/pi/gpio_log/RPI/Build/CMakeFiles/install/local.dir

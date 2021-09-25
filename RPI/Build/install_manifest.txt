@@ -1,0 +1,2 @@
+/usr/local/lib/libRPI.a
+/usr/local/include/RPI.h
