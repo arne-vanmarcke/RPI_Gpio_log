@@ -46,13 +46,10 @@ int main(){
         INP_GPIO(Gpio[i].pin);
 
         int val=GPIO_READ(Gpio[i].pin);
-        if(val>0){
+        if(val>0)
             Gpio[i].state=1;
-        }
         else
-        {
             Gpio[i].state=0;
-        }
     }
 
     while(1){
