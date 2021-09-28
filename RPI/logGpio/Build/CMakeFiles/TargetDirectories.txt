@@ -1,0 +1,3 @@
+/home/pi/gpio_log/RPI/logGpio/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/gpio_log/RPI/logGpio/Build/CMakeFiles/logGpio.dir
+/home/pi/gpio_log/RPI/logGpio/Build/CMakeFiles/edit_cache.dir
